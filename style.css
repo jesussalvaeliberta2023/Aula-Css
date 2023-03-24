@@ -14,11 +14,17 @@ header {
 	border-bottom: 10px solid #04315c;
 }
 
+body{
+	background-color: #c8daf1;
+
+}
+
 /*Grid de produtos*/
 .container {
-	background-color: #eeeeee;
+	background-color: #c8daf1;
 	min-height: 75vh;
 	padding: 50px;
+	margin-left: 320px;
 }
 
 footer {
@@ -33,3 +39,13 @@ footer {
 	display: inline-block;
 }
 
+.books{
+	height: 250px;
+}
+
+.btn{
+	background-color: #88c1f7;
+	border-radius: 15%;
+	text-decoration: none;
+	width: 200px;
+}
